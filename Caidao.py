@@ -28,9 +28,7 @@ class Caidao(object):
     1 批量上传功能
     2 自动挂链功能
     3 执行命令
-    4 寄生虫站群
-    5 定时监测webshell存活
-    6 泛目录等seo
+    4 定时监测webshell存活
     还有部分功能未完成
     """
 
